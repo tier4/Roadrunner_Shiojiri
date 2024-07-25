@@ -12,3 +12,10 @@ RoadRunner Scenario では、シミュレーションのために他のシミュ
 Roadrunner Scenairo:https://jp.mathworks.com/products/roadrunner-scenario.html  
 
 ## repo structure
+```
+├── Assets  マップを作成するにあたって必要なアセット
+├── Exports  シナリオ、シーンがxml,xodr形式で出力される
+├── Project  恐らく既存のプロジェクトデータ
+├── Scenarios  シナリオが格納されている
+└── Scenes  シーンが格納されている
+```
